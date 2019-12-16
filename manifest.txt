@@ -1,0 +1,6 @@
+Manifest-Version: 1.1
+Created-By: DecryptedX
+Package-Name: standoff
+Main-Class: standoff.StandOff
+Name: application
+Sealed: true
